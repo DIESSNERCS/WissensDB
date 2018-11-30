@@ -1,0 +1,21 @@
+VPN:
+vpn.fu-berlin.de
+
+User:
+tkinateder
+Passwort:
+1DqRT7qm
+
+Citrix login:
+https://workplace.fu-berlin.de/Citrix/XenApp/site/default.aspx
+
+User: s.o.
+
+Entwicklungsmandant CT1/101
+
+Zugang SAP:
+
+User:
+skneissl
+Passwort:
+L4crimos4

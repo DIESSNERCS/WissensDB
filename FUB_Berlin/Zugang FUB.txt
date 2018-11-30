@@ -1,0 +1,12 @@
+accountname
+ddiessner
+
+
+https://workplace.fu-berlin.de/Citrix/XenApp/auth/login.aspx
+pw
+x67du2nd (Standard)
+yf=x@Fu3dd
+
+fu portal
+
+fu berlin zedat

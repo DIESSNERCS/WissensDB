@@ -1,0 +1,26 @@
+Paket: 
+ZCM_PA_SVL_BE_BADI
+
+Klasse:
+Z_CM_CL_IM_AD_APPL_NIR0 -> Z_CM_AD_CL_RULE_1100
+
+
+Zum Debuggen:
+Breakpoint in Methode -> Wird ausgeführt bei Abschicken eines Antrags
+Antrag:
+Note: 1,3 eingeben
+
+Methode dem Interface hinzufügen
+
+Antragsdaten:
+
+CHECK-Methode
+
+Die Daten befinden sich im Object io_appl->ms_buffer oder in der Struktur ITS_SPECIAL_DATA_NEW
+
+
+Methode:
+check_imma_allowed
+Importparameter: ld_date_hzb
+
+
