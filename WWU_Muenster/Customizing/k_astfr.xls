@@ -1,0 +1,78 @@
+astfr	aikz	ktxt	dtxt	ltxt
+1	A	Geisteswis	Geisteswissenschaften all	Geisteswissenschaften allgemein                   
+2	A	Evang. The	Evang. Theologie, -Religi	Evang. Theologie, -Religionslehre                 
+3	A	Kath. Theo	Kath. Theologie, -Religio	Kath. Theologie, -Religionslehre                  
+4	A	Philosophi	Philosophie              	Philosophie                                       
+5	A	Geschichte	Geschichte               	Geschichte                                        
+6	A	Bibliothek	Bibliothekswissensc haft,	Bibliothekswissensc haft, Dokumentation           
+7	A	Allgemeine	Allgemeine und vergleiche	Allgemeine und vergleichende Literatur- und Sprach
+8	A	Altphilolo	Altphilologie (klass. Phi	Altphilologie (klass. Philologie), Neugriechisch  
+9	A	Germanisti	Germanistik (Deutsch, ger	Germanistik (Deutsch, germanische Sprachen ohne An
+10	A	Anglistik,	Anglistik, Amerikanistik 	Anglistik, Amerikanistik                          
+11	A	Romanistik	Romanistik               	Romanistik                                        
+12	A	Slawistik,	Slawistik, Baltistik, Fin	Slawistik, Baltistik, Finno-Ugristik              
+13	A	Auﬂereurop	Auﬂereurop‰ische Sp rach-	Auﬂereurop‰ische Sp rach- und Kultur- wissenschaft
+14	A	Kulturwiss	Kulturwissenschaften i.e.	Kulturwissenschaften i.e.S.                       
+16	I	Kulturwiss	Kulturwissenschaften i.e.	Kulturwissenschaften i.e.S.                       
+17	I	Psychologi	Psychologie              	Psychologie                                       
+18	A	Islamische	Islamische Studien       	Islamische Studien                                
+19	I	Sonderp‰d 	Sonderp‰dagogik          	Sonderp‰dagogik                                   
+20	I	Sport, Spo	Sport, Sportwissenschaft 	Sport, Sportwissenschaft                          
+21	I	Regionalwi	Regionalwissenschaften   	Regionalwissenschaften                            
+22	A	Sport, Spo	Sport, Sportwissenschaft 	Sport, Sportwissenschaft                          
+23	A	Rechts-, W	Rechts-, Wirtschafts- und	Rechts-, Wirtschafts- und Sozialwissenschaften  al
+24	A	Regionalwi	Regionalwissenschaften   	Regionalwissenschaften                            
+25	A	Politikwis	Politikwissenschaften    	Politikwissenschaften                             
+26	A	Sozialwiss	Sozialwissenschaften     	Sozialwissenschaften                              
+27	A	Sozialwese	Sozialwesen              	Sozialwesen                                       
+28	A	Rechtswiss	Rechtswissenschaften     	Rechtswissenschaften                              
+29	A	Verwaltung	Verwaltungswissenschaften	Verwaltungswissenschaften                         
+30	A	Wirtschaft	Wirtschaftswissenschaften	Wirtschaftswissenschaften                         
+31	A	Wirtschaft	Wirtschaftsingenieurwesen	Wirtschaftsingenieurwesen mit wirtschaftswiss. Sch
+32	A	Psychologi	Psychologie              	Psychologie                                       
+33	A	Erziehungs	Erziehungswissenschaften 	Erziehungswissenschaften                          
+34	I	Mathematik	Mathematik               	Mathematik                                        
+35	I	Informatik	Informatik               	Informatik                                        
+36	A	Mathematik	Mathematik, Naturwissensc	Mathematik, Naturwissenschaften allgemein         
+37	A	Mathematik	Mathematik               	Mathematik                                        
+39	A	Physik, As	Physik, Astronomie       	Physik, Astronomie                                
+40	A	Chemie    	Chemie                   	Chemie                                            
+41	A	Pharmazie 	Pharmazie                	Pharmazie                                         
+42	A	Biologie  	Biologie                 	Biologie                                          
+43	A	Geowissens	Geowissenschaften (ohne G	Geowissenschaften (ohne Geographie)               
+44	A	Geographie	Geographie               	Geographie                                        
+48	A	GesWiss.  	Gesundheitswissenschaft  	Gesundheitswissenschaften allgemein               
+49	A	Humanmediz	Humanmedizin (oh ne Zahnm	Humanmedizin (oh ne Zahnmedizin)                  
+50	A	Zahnmedizi	Zahnmedizin              	Zahnmedizin                                       
+51	A	Veterin‰rm	Veterin‰rmedizin         	Veterin‰rmedizin                                  
+52	I	Zahnmedizi	Zahnmedizin              	Zahnmedizin                                       
+54	I	Veterin‰r 	Veterin‰rmedizin         	Veterin‰rmedizin                                  
+57	A	Landespfle	Landespflege, Umweltgesta	Landespflege, Umweltgestaltung                    
+58	A	Agrarwisse	Agrarwissenschaften, Lebe	Agrarwissenschaften, Lebensmittel- und Getr‰nketec
+59	A	Forstwisse	Forstwissenschaft, Holzwi	Forstwissenschaft, Holzwirtschaft                 
+60	A	Ern‰hrungs	Ern‰hrungs- und Haushalts	Ern‰hrungs- und Haushaltswissenschaften           
+61	A	Ingenieurw	Ingenieurwesen allgemein 	Ingenieurwesen allgemein                          
+62	A	Bergbau, H	Bergbau, H¸ttenwesen     	Bergbau, H¸ttenwesen                              
+63	A	Maschinenb	Maschinenbau/Verfahrenste	Maschinenbau/Verfahrenstechnik                    
+64	A	Elektrotec	Elektrotechnik und Inform	Elektrotechnik und Informationstechnik            
+65	A	Verkehrste	Verkehrstechnik, Nautik  	Verkehrstechnik, Nautik                           
+66	A	Architektu	Architektur, Innenarchite	Architektur, Innenarchitektur                     
+67	A	Raumplanun	Raumplanung              	Raumplanung                                       
+68	A	Bauingenie	Bauingenieurwesen        	Bauingenieurwesen                                 
+69	A	Vermessung	Vermessungswesen         	Vermessungswesen                                  
+70	A	Wirtschaft	Wirtschaftsingenieurwesen	Wirtschaftsingenieurwesen mit ingenieurwiss. Schwe
+71	A	Informatik	Informatik               	Informatik                                        
+72	A	Materialwi	Materialwissenschaft und 	Materialwissenschaft und Werkstofftechnik         
+73	A	Architektu	Architektur, Innenarchtit	Architektur, Innenarchtitektur                    
+74	A	Kunst, Kun	Kunst, Kunstwissenschaft 	Kunst, Kunstwissenschaft allgemein                
+75	A	Bildende K	Bildende Kunst           	Bildende Kunst                                    
+76	A	Gestaltung	Gestaltung               	Gestaltung                                        
+77	A	Darstellen	Darstellende Kunst, Film 	Darstellende Kunst, Film und Fernsehen, Theaterwis
+78	A	Musik, Mus	Musik, Musikwissenschaft 	Musik, Musikwissenschaft                          
+79	I	Bildende K	Bildende Kunst           	Bildende Kunst                                    
+80	I	Gestaltung	Gestaltung               	Gestaltung                                        
+81	I	Mat.Wissen	Materialwissensch u. Werk	Materialwissenschaft und Werkstofftechnik         
+82	I	Darstellen	Darstellende Kunst, Film 	Darstellende Kunst, Film und Fernsehen, Theaterwis
+83	A	Auﬂerhalb 	Auﬂerhalb der Studienbere	Auﬂerhalb der Studienbereichsgliederung           
+98	I	Allgemein 	Allgemein (Allgemeiner Zu	Allgemein (Allgemeiner Zugang zu Lehrveranstaltung
+99	I	Ungekl‰rt 	Ungekl‰rt/Unbekannt      	Ungekl‰rt/Unbekannt                               

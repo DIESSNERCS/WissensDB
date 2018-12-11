@@ -1,0 +1,11 @@
+astgrp	aikz	ktxt	dtxt	ltxt
+10	A	SprKultWis	Sprach-u.Kult.Wissensch. 	Sprach-u.Kulturwissenschaften                     
+20	A	Sport     	Sport                    	Sport                                             
+30	A	ReWiWiss. 	Rechts-u.WirtsWissensch. 	Rechts-u.Wirtschaftswissenschaften                
+40	A	MatheNatWi	Mathem.-u.NaturWissensch.	Mathem.-u.Naturwissenschaften                     
+50	A	Medizin   	Humanmedizin/Gesundh.wiss	Humanmedizin/Gesundheitswissenschaften            
+60	A	Veterin.  	Veterinaermedizin        	Veterinaermedizin                                 
+70	A	AgrForstW.	Agrar-, Forst-u.ErnWsch. 	Agrar-, Forst-u.ErnaehrungsWsch.                  
+80	A	IngWiss.  	Ingenieurwissensch.      	Ingenieurwissenschaften                           
+90	A	Kunst     	Kunst                    	Kunst                                             
+100	A	sonst.F.  	sonstige Faecher         	sonstige Faecher                                  

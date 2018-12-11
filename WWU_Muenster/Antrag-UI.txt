@@ -1,0 +1,24 @@
+Backoffice
+
+https://uvsapwq03.uni-muenster.de/sap/bc/webdynpro/sap/piq_ad_ovp_admin?sap-language=DE&sap-wd-configId=%2fNVIAS%2fAD_AC_APL_ADH_OVP#
+
+
+Self Service
+
+https://uvsapwq03.uni-muenster.de/sap/bc/ui5_ui5/sap/zmyrequest/index.html?sap-client=405
+
+Student15
+
+Student15
+
+SolMan:
+
+https://uvsapsmp.uni-muenster.de:50001/sap(bD1kZSZjPTAwMSZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm?saprole=Z_SOLMANPRO
+
+Mandant 001
+
+Benutzer:
+EXT-Bnitsche
+
+Pw
+*Juist2*
